@@ -26,8 +26,8 @@
     "require": {
         "middlewares/proxy": "^2.0",
         "laminas/laminas-diactoros": "^3.0",
-        "laminas/laminas-stratigility": "^3.2",
-        "laminas/laminas-httphandlerrunner": "^1.2"
+        "laminas/laminas-stratigility": "^4.0",
+        "laminas/laminas-httphandlerrunner": "^2.10"
     },
     "autoload": {
         "psr-4": {
